@@ -4,7 +4,7 @@ title: 'archlinux安装手记'
 date: 2019-05-5
 tags: Linux
 categories: 技术
-cover: https://tieba.baidu.com/p/4703623918?pn=0
+cover: ![archlinux](/assets/img/arch-cover.png)
 ---
 
 archlinux安装
