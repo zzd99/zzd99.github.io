@@ -101,9 +101,9 @@ dd命令使用
 >reboot
 
 #####  好了archlinux的基础安装已经完成
-#####  欢迎加入arch邪教
+#####  欢迎加入'arch'邪教
 
-![image](/storage/emulated/0/Quark/Download/1024px-Archlinux-icon-crystal-64.svg.png)
+![archlinux](/assets/img/archlinux.jpg)
 
 ###### 参考链接
 [https://www.viseator.com/2017/05/17/arch_install/](https://www.viseator.com/2017/05/17/arch_install/)
