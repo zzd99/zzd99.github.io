@@ -103,7 +103,7 @@ dd命令使用
 #####  好了archlinux的基础安装已经完成
 #####  欢迎加入'arch'邪教
 
-![archlinux](/assets/img/archlinux.jpg)
+![archlinux](/assets/img/Archlinux.png)
 
 ###### 参考链接
 [https://www.viseator.com/2017/05/17/arch_install/](https://www.viseator.com/2017/05/17/arch_install/)
@@ -111,6 +111,3 @@ dd命令使用
 
 [https://bbs.archlinuxcn.org/viewtopic.php?id=1037](https://bbs.archlinuxcn.org/viewtopic.php?id=1037)
 
-
-i3配置
-===
