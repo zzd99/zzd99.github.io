@@ -1,4 +1,11 @@
-![image](/storage/emulated/0/tieba/732351ADCEC37355A9A0A4555BE01F92.jpg)
+---
+date: 2019-05-05
+title: archlinux安装手记
+layout: post
+tag: Linux
+cover: https://i.loli.net/2018/09/15/5b9c4e0ba1e62.png
+---
+
 archlinux安装
 ===
 ###镜像准备
