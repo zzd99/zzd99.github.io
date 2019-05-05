@@ -8,7 +8,7 @@ cover: https://i.loli.net/2018/09/15/5b9c4e0ba1e62.png
 
 archlinux安装
 ===
-###镜像准备
+### 镜像准备
 1个大于8GB的U盘、archlinux镜像
 * 写入方法
     + Windows下可用rufus写入
@@ -21,12 +21,12 @@ dd命令使用
 >先取消U盘挂载 sudo umount /dev/sdx sdx为目标U盘
 >镜像写入 sudo if = archlinux镜像 of = U盘路径
 
-###确认引导方式
+### 确认引导方式
 >ls /sys/firmware/efi/efivars  
 >没有输出就是efi引导，不然则为bios
 >因为我是efi引导，所以我只写efi的安装方式
 
-###联网
+### 联网
 ***注意：archlinux不能离线安装***
 * 联网方式
     + 有线  使用dhcpcd连接
@@ -40,7 +40,7 @@ dd命令使用
 ###更新系统时间
 >timedatectl set-ntp ture
 
-###改源
+### 改源
 >vim /etc/pacman.d/mirrorlist  
 >vim可以改用别的编辑器  
 >将源改为国内源
@@ -108,7 +108,7 @@ dd命令使用
 >reboot
 
 #####  好了archlinux的基础安装已经完成
-#####  欢迎加入'arch'邪教
+#####  欢迎加入arch邪教
 ![archlinux](/assets/img/Archlinux.png)
 
 ###### 参考链接
