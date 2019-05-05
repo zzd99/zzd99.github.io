@@ -15,7 +15,7 @@ archlinux安装
     + linux下可使用dd命令写入
 
 校验镜像：因为我是使用linux所以只介绍linux下的方法 
->进终端 md5sum +镜像名 | grep + 校验码  
+>进终端 md5sum +镜像名 \| grep + 校验码  
 
 dd命令使用
 >先取消U盘挂载 sudo umount /dev/sdx sdx为目标U盘
