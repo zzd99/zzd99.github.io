@@ -6,7 +6,7 @@ tag: Linux
 cover: http://c.hiphotos.baidu.com/forum/w%3D373%3Bq%3D100%3Bg%3D0/sign=c497742ba818972ba33a06cdd5f60ab4/985271b5c9ea15ce2252a836b5003af33a87b23e.jpg?&src=http%3A%2F%2Fimgsrc.baidu.com%2Fforum%2Fpic%2Fitem%2F985271b5c9ea15ce2252a836b5003af33a87b23e.jpg
 ---
 
-**我是入坑不久的linux小菜鸡，以下步骤要是出错请参考下面的连接和官方wiki**  
+**我是入坑不久的linux小菜鸡，以下步骤要是出错请参考下面的链接和官方wiki**  
 
 archlinux安装
 ===
