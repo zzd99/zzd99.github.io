@@ -3,7 +3,7 @@ date: 2019-05-05
 title: archlinux安装手记
 layout: post
 tag: Linux
-cover: https://qnpic1.codesec.net/201606/07/20160607_79_429462_0.jpg?imageView2/2/h/300/interlace/1
+cover: http://c.hiphotos.baidu.com/forum/w%3D373%3Bq%3D100%3Bg%3D0/sign=c497742ba818972ba33a06cdd5f60ab4/985271b5c9ea15ce2252a836b5003af33a87b23e.jpg?&src=http%3A%2F%2Fimgsrc.baidu.com%2Fforum%2Fpic%2Fitem%2F985271b5c9ea15ce2252a836b5003af33a87b23e.jpg
 ---
 
 archlinux安装
