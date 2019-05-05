@@ -3,7 +3,7 @@ date: 2019-05-05
 title: archlinux安装手记
 layout: post
 tag: Linux
-cover: https://i.loli.net/2018/09/15/5b9c4e0ba1e62.png
+cover: https://tieba.baidu.com/p/3218869931?pn=0&#viewImg
 ---
 
 archlinux安装
@@ -15,7 +15,9 @@ archlinux安装
     + linux下可使用dd命令写入
 
 校验镜像：因为我是使用linux所以只介绍linux下的方法 
->进终端 md5sum +镜像名 \| grep + 校验码  
+>进终端 md5sum +镜像名  
+ 然后检查校验码 
+   
 
 dd命令使用
 >先取消U盘挂载 sudo umount /dev/sdx sdx为目标U盘
@@ -37,7 +39,7 @@ dd命令使用
 >ping Baidu.com  
 >ctrl + c结束
 
-###更新系统时间
+### 更新系统时间
 >timedatectl set-ntp ture
 
 ### 改源
@@ -87,7 +89,7 @@ dd命令使用
 ### 设置主机名
 >echo xxxx > /etc/hostname  ** xxxx为主机名 ** 
 
- **** 安装引导
+### 安装引导
 >pacman -S grub efibootmgr  
 >grub-install --target=x86_64-efi --efi-directory=/boot/efi --bootloader-id=archlinux
 
