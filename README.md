@@ -1,3 +1,5 @@
+**引用地址**：https://github.com/YadominJinta/YadominJinta.github.io
+
 ## jekyll-theme-H2O
 
 基于Jekyll的博客主题模板，简洁轻量。
