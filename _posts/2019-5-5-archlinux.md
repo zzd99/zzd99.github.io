@@ -89,7 +89,7 @@ dd命令使用
 >>echo LANG=en_US.UTF-8 > /etc/local.conf
 
 ### 设置主机名
->echo xxxx > /etc/hostname  ** xxxx为主机名 ** 
+>echo xxxx > /etc/hostname         ***xxxx为主机名***
 
 ### 安装引导
 >pacman -S grub efibootmgr  
