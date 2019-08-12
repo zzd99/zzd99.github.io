@@ -20,7 +20,7 @@ footer:
 author: '东子'
 nickname: '615'
 bio: '云青青兮欲雨，水澹澹兮生烟'
-avatar: '/assets/img/me.jpg'
+avatar: '/assets/img/me.jpeg'
 
 # Search
 search: true
@@ -50,8 +50,6 @@ postPatterns: 'circuitBoard'
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
   github: '//github.com/zzd99'
-  #jianshu: '//www.jianshu.com/u/fcb2c368ba36'
-  #twitter: '//twitter.com/Yadomin1'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
