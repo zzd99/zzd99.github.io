@@ -23,25 +23,19 @@ cover: https://www.technotification.com/wp-content/uploads/2018/04/git-commands.
 + 对文件进行操作（增删改查）后进行如下操作  
 ![vscode1](/assets/img/vscode-git-1.png)  
 
-
 先暂存更改，然后提交
 ![vscode2](/assets/img/vscode-git-2.png)  
-
 
 提交更改时它会让你填写提交消息，再这里我填的是vscode下git推送
 ![vscode3](/assets/img/vscode-git-3.png) 
 
-
 这是完成后的提交消息，vscode下的git推送 
 ![vscode4](/assets/img/vscode-git-4.png)  
-
 
 推送
 ![vscode5](/assets/img/vscode-git-5.png) 
 
-
-输入git用户名和密码 
+输入git用户名和密码  
 ![vscode6](/assets/img/vscode-git-6.png)  
 ![vscode7](/assets/img/vscode-git-7.png) 
-
 完成推送
