@@ -25,4 +25,6 @@ cover: https://www.technotification.com/wp-content/uploads/2018/04/git-commands.
 ![vscode](/assets/img/vscode/shot2)  
 ![vscode](/assets/img/vscode/shot3)  
 ![vscode](/assets/img/vscode/shot4)  
-![vscode](/assets/img/vscode/shot5)
+![vscode](/assets/img/vscode/shot5)  
+![vscode](/assets/img/vscode/shot6)  
+![vscode](/assets/img/vscode/shot7) 
