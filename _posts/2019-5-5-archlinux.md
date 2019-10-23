@@ -118,7 +118,7 @@ dd命令使用
 
 #####  好了archlinux的基础安装已经完成
 #####  欢迎加入arch邪教
-![archlinux](/assets/img/Archlinux.png)
+![archlinux](/assets/img/archlinux/Archlinux.png)
 
 ###### 参考链接
 [https://www.viseator.com/2017/05/17/arch_install/](https://www.viseator.com/2017/05/17/arch_install/)
