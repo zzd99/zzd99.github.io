@@ -21,23 +21,23 @@ cover: https://www.technotification.com/wp-content/uploads/2018/04/git-commands.
 + vscode打开仓库文件夹
 + 对文件进行操作（增删改查）后进行如下操作  
 
-![vscode1](/assets/img/vscode-git-1.png)  
+![vscode1](/assets/img/git/vscode-git-1.png)  
 
 ### 先暂存更改，然后提交
-![vscode2](/assets/img/vscode-git-2.png)  
+![vscode2](/assets/img/git/vscode-git-2.png)  
 
 ### 提交更改时它会让你填写提交消息，再这里我填的是vscode下git的使用   
-![vscode3](/assets/img/vscode-git-3.png) 
+![vscode3](/assets/img/git/vscode-git-3.png) 
 
 ### 这是完成后的提交消息，vscode下的git的使用  
-![vscode4](/assets/img/vscode-git-4.png)  
+![vscode4](/assets/img/git/vscode-git-4.png)  
 
 ### 推送
-![vscode5](/assets/img/vscode-git-5.png) 
+![vscode5](/assets/img/git/vscode-git-5.png) 
 
 ### 输入git用户名和密码  
-![vscode6](/assets/img/vscode-git-6.png)  
-![vscode7](/assets/img/vscode-git-7.png)  
+![vscode6](/assets/img/git/vscode-git-6.png)  
+![vscode7](/assets/img/git/vscode-git-7.png)  
 
 ### 完成推送
  
